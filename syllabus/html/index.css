@@ -1,0 +1,22 @@
+.red{
+  border:1px solid red;
+}
+.blue-background{
+  background-color: blue;
+}
+
+.list li{
+  border:1px solid green;
+  background-color: blue;
+  color:white;
+}
+
+.other.list li{
+  background-color: purple;
+}
+
+#special{
+  background-color: white;
+  color:blue;
+
+}
