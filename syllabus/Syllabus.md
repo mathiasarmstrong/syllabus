@@ -5,9 +5,16 @@
 
 * lesson/1 : **Tools**
 * lesson/2 : **Git Workflow**
-* lesson/3 : **Html Basics**
-* lesson/4 : **CSS Basics**
-* lesson/5 : **SCSS/Jade/Pug - Compiled languages**
+* lesson/3 : **Terminology**
+* lesson/4 : **Html Basics**
+* lesson/5 : **CSS Basics**
+* lesson/6 : **CSS Frameworks**
+* lesson/7 : **SCSS/Jade(Pug) - Compiled languages**
+* lesson/8 : **Browser tools**
+* lesson/9 : **More Terminology**
+* lesson/10 : **Javascript Basics**
+* lesson/11 : **Javascript Libraries**
+* lesson/12 : **Javascript Frameworks**
 
 
 <!-- ##FrontEnd
