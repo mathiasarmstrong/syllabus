@@ -14,6 +14,7 @@
 * <span style = 'color:blue;'>?</span> Add Changes
 * <span style = 'color:blue;'>?</span> Commit Changes
 * <span style = 'color:blue;'>?</span> Push Changes
+* <span style = 'color:red;'>»</span> Add SSH Key
 * <span style = 'color:red;'>»</span> Add new Remote repo
 * <span style = 'color:red;'>»</span> Fetch Remote changes
 * <span style = 'color:red;'>»</span> Merge Branches
