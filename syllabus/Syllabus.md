@@ -3,18 +3,18 @@
 
 *Information about Subjects can be found in the corresponding branches*
 
-* lesson/1 : **Tools**
-* lesson/2 : **Git Workflow**
-* lesson/3 : **Terminology**
-* lesson/4 : **Html Basics**
-* lesson/5 : **CSS Basics**
-* lesson/6 : **CSS Frameworks**
-* lesson/7 : **SCSS/Jade(Pug) - Compiled languages**
-* lesson/8 : **Browser tools**
-* lesson/9 : **More Terminology**
-* lesson/10 : **Javascript Basics**
-* lesson/11 : **Javascript Libraries**
-* lesson/12 : **Javascript Frameworks**
+* subject/1 : **Tools**
+* subject/2 : **Git Workflow**
+* subject/3 : **Terminology**
+* subject/4 : **Html Basics**
+* subject/5 : **CSS Basics**
+* subject/6 : **CSS Frameworks**
+* subject/7 : **SCSS/Jade(Pug) - Compiled languages**
+* subject/8 : **Browser tools**
+* subject/9 : **More Terminology**
+* subject/10 : **Javascript Basics**
+* subject/11 : **Javascript Libraries**
+* subject/12 : **Javascript Frameworks**
 
 
 <!-- ##FrontEnd
