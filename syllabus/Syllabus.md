@@ -10,13 +10,13 @@
 * <span style = 'color:green;'>√</span> Create a Fork
 * <span style = 'color:green;'>√</span> Create a Branch
 * <span style = 'color:green;'>√</span> Clone a Repo
-* <span style = 'color:red;'>»</span> Pull Changes for Branch
-* <span style = 'color:blue;'>?</span> Add Changes
-* <span style = 'color:blue;'>?</span> Commit Changes
-* <span style = 'color:blue;'>?</span> Push Changes
+* <span style = 'color:green;'>√</span> Pull Changes for Branch
+* <span style = 'color:green;'>√</span> Add Changes
+* <span style = 'color:green;'>√</span> Commit Changes
+* <span style = 'color:green;'>√</span> Push Changes
+* <span style = 'color:green;'>√</span> Add new Remote repo
+* <span style = 'color:green;'>√</span> Fetch Remote changes
 * <span style = 'color:red;'>»</span> Add SSH Key
-* <span style = 'color:red;'>»</span> Add new Remote repo
-* <span style = 'color:red;'>»</span> Fetch Remote changes
 * <span style = 'color:red;'>»</span> Merge Branches
 ###Resources
 * #####[What is Github](http://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/)
