@@ -5,6 +5,7 @@
 
 * subject/1 : **Tools**
 * subject/2 : **Git Workflow**
+    - assignment/1 : **Markdown Blog**
 * subject/3 : **Terminology**
 * subject/4 : **Html Basics**
 * subject/5 : **CSS Basics**
