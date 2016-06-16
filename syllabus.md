@@ -1,5 +1,5 @@
 # Web Development 101
-**list Format »** <*branchName*> : <*Subject*>
+**list Format** <*branchName*> : <*Subject*>
 
 *Information about Subjects can be found in the corresponding branches*
 
