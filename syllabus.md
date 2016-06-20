@@ -1,10 +1,24 @@
 # Subject 2 - Git workflow
 
-###Why is this Important
+***hello world***
+
+* blue
+* green
+* turquiose
+* purple
+* red
+
+1. tom
+2. phil
+3. jon
+4. dj
+5. anyone
+
+### Why is this Important
 >I will be using Git and Github to share information and projects with everyone, and when you begin to work on projects together you will be using Github to coordinate.
 
-
 ###Lesson Plan
+
 * <span style = 'color:green;'>√</span> Create a Github account
 * <span style = 'color:green;'>√</span> Set up Git locally and online
 * <span style = 'color:green;'>√</span> Create a Fork
@@ -18,6 +32,7 @@
 * <span style = 'color:green;'>√</span> Fetch Remote changes
 * <span style = 'color:red;'>»</span> Add SSH Key
 * <span style = 'color:red;'>»</span> Merge Branches
+
 ###Resources
 * #####[What is Github](http://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/)
 *GitHub is Web Application (i.e. website) that provides cloud storage free for open source projects. It also provides a set of tools for coordinating work between different contributors.*
